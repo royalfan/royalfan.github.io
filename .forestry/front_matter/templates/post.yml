@@ -1,0 +1,16 @@
+---
+pages:
+- _posts/2018-01-19-test.md
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: image_gallery
+  name: gallery
+  label: Gallery
+- type: textarea
+  config:
+    wysiwyg: true
+  label: Body
+  name: body
