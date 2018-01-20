@@ -1,0 +1,14 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Title
+  name: title
+- type: image_gallery
+  name: gallery
+  label: Gallery
+- type: textarea
+  config:
+    wysiwyg: true
+  label: Body
+  name: body
