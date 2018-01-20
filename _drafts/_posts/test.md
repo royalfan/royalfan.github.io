@@ -1,4 +1,7 @@
 ---
 title: Test
 date: 2018-01-19 22:49:32 +0000
+gallery:
+- "/uploads/2018/01/20/Capture.PNG"
+body: 'Yes'
 ---
